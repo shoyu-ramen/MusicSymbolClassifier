@@ -1,4 +1,4 @@
-# Universal Music Symbol Classifier
+# (){}[]{}(). ][}{) (}{][
 
 ![](universal-music-symbol-collection.png)
 
